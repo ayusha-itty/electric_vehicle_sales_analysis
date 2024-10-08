@@ -3,7 +3,7 @@ This project analyzes Electric Vehicle (EV) sales data to uncover trends, patter
 # dataset
 <a href="https://github.com/ayusha-itty/electric_vehicle_sales_analysis/raw/main/Electric_Vehicle_Population_Data.csv">Dataset</a>
 # Dashboard
-<a href="https://public.tableau.com/app/profile/ayusha.itty/viz/ElectricVehicleDataAnalysis_17152843563920/Dashboard1"</a>
+<a href="https://public.tableau.com/app/profile/ayusha.itty/viz/ElectricVehicleDataAnalysis_17152843563920/Dashboard1">View Dashboard</a>
 # KPI’S Requirement
 1. Total Vehicles:
 • Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the
